@@ -11,4 +11,4 @@ Public information for the DKO archive, Version 4
 
 This is the SHA256 hash for the master hash list located at Data_integrity/Hashes/master_sha256.txt
 
-c84d3ba02cac97812efb1eab90e44f9c9b53f2b3d726d554c2ae91f4d68c527c
+4929550e40c1a1fd7e2cb9e6eca58b1af57b0cdff2e4676728ce10701dffb7c7
