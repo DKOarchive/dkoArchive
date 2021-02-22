@@ -20,3 +20,11 @@ Public information for the DKO archive, DVD Version 5
 This is the SHA256 hash for the master hash list located at Data_integrity/Hashes/master_sha256.txt
 
 5038373a9f8602da24ea83bcc0df2de34e1bbe82142defc10475af80a42cd136
+
+
+\
+Public information for the DKO archive, Full Version 5
+
+This is the SHA256 hash for the master hash list located at Data_integrity/Hashes/master_sha256.txt
+
+319b381967b46cb98f5675099943bd006af7366cd1abdd65c8ca6ab3a2f7fc6c
